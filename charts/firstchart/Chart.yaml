@@ -1,7 +1,7 @@
 apiVersion: v2
 name: firstchart
 description: meu primeiro chart
-
+icon: https://logodownload.org/wp-content/uploads/2018/03/nginx-logo-7.png
 # A chart can be either an 'application' or a 'library' chart.
 #
 # Application charts are a collection of templates that can be packaged into versioned archives
