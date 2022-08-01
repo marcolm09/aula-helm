@@ -1,6 +1,7 @@
 apiVersion: v2
 name: chart-desafio
 description: Chart do desafio requerido para fase 3 
+icon: https://rancher.com/products/rancher 
 
 # A chart can be either an 'application' or a 'library' chart.
 #
