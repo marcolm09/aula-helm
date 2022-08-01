@@ -57,7 +57,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: chart-desafio-marco.aula.jac.bsb.br
+    - host: chart-desafio-marco.aula.jacexperts.io
       paths:
         - path: /
           pathType: ImplementationSpecific
